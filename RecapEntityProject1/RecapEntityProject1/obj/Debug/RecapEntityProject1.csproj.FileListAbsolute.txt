@@ -1,0 +1,15 @@
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\bin\Debug\RecapEntityProject1.exe.config
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\bin\Debug\RecapEntityProject1.exe
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\bin\Debug\RecapEntityProject1.pdb
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\bin\Debug\EntityFramework.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\bin\Debug\EntityFramework.xml
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\obj\Debug\RecapEntityProject1.csproj.AssemblyReference.cache
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\obj\Debug\RecapEntityProject1.Form1.resources
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\obj\Debug\RecapEntityProject1.Properties.Resources.resources
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\obj\Debug\RecapEntityProject1.csproj.GenerateResource.cache
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\obj\Debug\RecapEntityProject1.csproj.CoreCompileInputs.cache
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\obj\Debug\RecapEntityProject1.csproj.CopyComplete
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\obj\Debug\RecapEntityProject1.exe
+C:\Users\mcann\OneDrive\Masaüstü\btk\RecapEntityProject1\RecapEntityProject1\obj\Debug\RecapEntityProject1.pdb
